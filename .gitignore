@@ -1,0 +1,36 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Production builds
+dist/
+frontend/dist/
+
+# Environment variables
+.env
+frontend/.env
+backend/.env
+.env*.local
+
+# Python cache and environments
+__pycache__/
+backend/__pycache__/
+.venv/
+venv/
+env/
+*.py[cod]
+
+# System files & editor caches
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Secrets & API Keys
+backend/keys/
+gee-key.json

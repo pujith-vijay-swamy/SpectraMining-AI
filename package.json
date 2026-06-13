@@ -1,0 +1,10 @@
+{
+  "name": "spectramining-ai",
+  "version": "1.1.0",
+  "private": true,
+  "description": "SpectraMining AI: FOSS satellite-driven mineral observation framework",
+  "scripts": {
+    "dev": "npx -y concurrently -k -p \"[{name}]\" -n \"frontend,backend\" -c \"cyan,green\" \"npm run dev --prefix frontend\" \"python -m uvicorn main:app --app-dir backend --host 127.0.0.1 --port 8000 --reload\"",
+    "build": "npm run build --prefix frontend"
+  }
+}
