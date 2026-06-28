@@ -132,7 +132,7 @@ npm run dev
    
 ## 👥 Engineering Team
 
-| **Lead Frontend Map Engineer** | [@](https://github.com/user1) |
-| **UI/UX Dashboard Developer** | [@](https://github.com/user2) |
-| **Lead Backend & Geospatial Engineer** | [@pujith-vijay-swamy](https://github.com/pujith-vijay-swamy) |
-| **GIS Data Specialist** | [@user4](https://github.com/user4) |
+* **Lead Frontend Map Engineer** | [@user1](https://github.com/user1)
+* **UI/UX Dashboard Developer** | [@user2](https://github.com/user2)
+* **Lead Backend & Geospatial Engineer** | [@pujith-vijay-swamy](https://github.com/pujith-vijay-swamy)
+* **GIS Data Specialist** | [@user4](https://github.com/user4)
