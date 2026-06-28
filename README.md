@@ -129,3 +129,10 @@ npm run dev
    - **Build Command**: `pip install -r backend/requirements.txt`
    - **Start Command**: `python -m uvicorn main:app --app-dir backend --host 0.0.0.0 --port $PORT`
 3. Add any custom environment variables (e.g., for Google Earth Engine authentication).
+   
+## 👥 Engineering Team
+
+| **Lead Frontend Map Engineer** | [@](https://github.com/user1) |
+| **UI/UX Dashboard Developer** | [@](https://github.com/user2) |
+| **Lead Backend & Geospatial Engineer** | [@pujith-vijay-swamy](https://github.com/pujith-vijay-swamy) |
+| **GIS Data Specialist** | [@user4](https://github.com/user4) |
