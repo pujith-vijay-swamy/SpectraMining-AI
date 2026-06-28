@@ -20,6 +20,14 @@ SpectraMining AI is a high-performance, satellite-driven mineral observation and
 
 ---
 
+## 👥 Engineering Team
+
+* **Lead Frontend Map Engineer** | [@shaikshakeera72-lgtm](https://github.com/shaikshakeera72-lgtm)
+* **UI/UX Dashboard Developer** | [@balalakshminarayana18-pixel ](https://github.com/balalakshminarayana18-pixel)
+* **Lead Backend & Geospatial Engineer** | [@pujith-vijay-swamy](https://github.com/pujith-vijay-swamy)
+* **GIS Data Specialist** | [@saradhavaranasi15](https://github.com/saradhavaranasi15)
+
+
 ## 📂 Project Structure
 
 ```
@@ -130,9 +138,3 @@ npm run dev
    - **Start Command**: `python -m uvicorn main:app --app-dir backend --host 0.0.0.0 --port $PORT`
 3. Add any custom environment variables (e.g., for Google Earth Engine authentication).
    
-## 👥 Engineering Team
-
-* **Lead Frontend Map Engineer** | [@user1](https://github.com/user1)
-* **UI/UX Dashboard Developer** | [@user2](https://github.com/user2)
-* **Lead Backend & Geospatial Engineer** | [@pujith-vijay-swamy](https://github.com/pujith-vijay-swamy)
-* **GIS Data Specialist** | [@user4](https://github.com/user4)
